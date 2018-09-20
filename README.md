@@ -1,2 +1,2 @@
-# gabrielchua.github.io
+# Gabriel Chua
 Personal Portfolio
