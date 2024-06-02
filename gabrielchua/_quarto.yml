@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gabriel Chua"
+  navbar:
+    right:
+      - blog.qmd
+      - icon: github
+        href: https://github.com/gabrielchua
+      - icon: twitter
+        href: https://x.com/gabchuayz
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gabriel-chua/
+
+format:
+  html:
+    theme: zeyphr
+    css: styles.css
+
+
+

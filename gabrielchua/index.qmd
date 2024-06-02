@@ -1,0 +1,13 @@
+---
+title: "Hello 👋"
+image: profile.jpg
+about:
+  template: jolla
+
+---
+
+I'm a Data Scientist at [GovTech](tech.gov.sg) where I build Machine Learning products and tools for public good.
+
+Before this, I worked at the Ministry of Health where I worked on healthcare financing policy, and data analytics for COVID-19 and population health. 
+
+I graduated from LSE and MIT with a BSc in Economics and Masters of Business Analytics respectively.
