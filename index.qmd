@@ -6,6 +6,19 @@ about:
 
 ---
 
+<head>
+  <meta property="og:title" content="Hello 👋 - Gabriel Chua">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://gabrielchua.me">
+  <meta property="og:image" content="https://gabrielchua.me/gabrielchua/profile.jpg">
+  <meta property="og:description" content="I'm a Data Scientist at GovTech where I build Machine Learning products and tools for public good.">
+  <meta property="og:site_name" content="Gabriel Chua's Blog">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Hello 👋 - Gabriel Chua">
+  <meta name="twitter:description" content="I'm a Data Scientist at GovTech where I build Machine Learning products and tools for public good.">
+  <meta name="twitter:image" content="https://gabrielchua.me/gabrielchua/profile.jpg">
+</head>
+
 I'm a Data Scientist at [GovTech](tech.gov.sg) where I build Machine Learning products and tools for public good.
 
 Before this, I worked at the Ministry of Health where I worked on healthcare financing policy, and data analytics for COVID-19 and population health. 
