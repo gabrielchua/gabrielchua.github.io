@@ -16,7 +16,7 @@ about:
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Hello 👋 - Gabriel Chua">
   <meta name="twitter:description" content="I'm a Data Scientist at GovTech where I build Machine Learning products and tools for public good.">
-  <meta name="twitter:image" content="https://gabrielchua.me/gabrielchua/profile.jpg">
+  <meta name="twitter:image" content="https://gabrielchua.me/profile.jpg">
 </head>
 
 I'm a Data Scientist at [GovTech](tech.gov.sg) where I build Machine Learning products and tools for public good.
