@@ -205,7 +205,7 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>A useful reference for me was this <a href="https://arxiv.org/abs/2405.17927">literature review</a> by Wadekar et.al</p>
 </blockquote>
-<p><strong>Late fushion</strong> Done at the internal layers of the model (e.g.&nbsp;OpenFlamingo, LLaMA-Adapter-V2)</p>
+<p><strong>Late fusion</strong> Done at the internal layers of the model (e.g.&nbsp;OpenFlamingo, LLaMA-Adapter-V2)</p>
 <hr>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -225,7 +225,7 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="early_fusion_encoder.png" class="img-fluid figure-img"></p>
+<p><img src="early_fusion_tokens.png" class="img-fluid figure-img"></p>
 <figcaption><strong>Image 5:</strong> Simplified architectural summary for tokenised early fusion - taken from Wadekar et.al</figcaption>
 </figure>
 </div>
@@ -234,13 +234,13 @@ ul.task-list li input[type="checkbox"] {
 <section id="tokeniser" class="level1">
 <h1>Tokeniser</h1>
 <ul>
-<li>For images: trained a new image tokenizer based on <a href="https://arxiv.org/abs/2203.13131">Gafni et.al (2022)</a> which encodes encodes a 512 × 512 image into 1024 discrete tokens from a codebook of size 8192</li>
+<li>For images: trained a new image tokenizer based on <a href="https://arxiv.org/abs/2203.13131">Gafni et.al (2022)</a> which encodes a 512 × 512 image into 1024 discrete tokens from a codebook of size 8192</li>
 </ul>
 <blockquote class="blockquote">
 <p>Based on <a href="https://openai.com/api/pricing/">OAI’s pricing page</a> (as of 5 June 2024), one image is ~170 tokens in GPT-4o.</p>
 </blockquote>
 <ul>
-<li>For text: BPE tokenzier over a subset of training data, with a vocabulary size of 65K</li>
+<li>For text: BPE tokenizer over a subset of training data, with a vocabulary size of 65K</li>
 </ul>
 </section>
 <section id="ensuring-stability-of-pre-training" class="level1">
@@ -373,8 +373,8 @@ ul.task-list li input[type="checkbox"] {
 <h1>Challenges Associated with Inference</h1>
 <ol type="1">
 <li>When decoding, we need to check whether it is a text or image token</li>
-<li>Masking tokens from other modalities when exlcuslively generating for a particular modality (e.g.&nbsp;no text tokens when doing image-only generation)</li>
-<li>Token-based iamge generation is a fixed-sized block</li>
+<li>Masking tokens from other modalities when exclusively generating for a particular modality (e.g.&nbsp;no text tokens when doing image-only generation)</li>
+<li>Token-based image generation is a fixed-sized block</li>
 </ol>
 </section>
 <section id="sftalignment" class="level1">

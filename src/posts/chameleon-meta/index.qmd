@@ -38,7 +38,7 @@ ___
 
 > A useful reference for me was this [literature review](https://arxiv.org/abs/2405.17927) by Wadekar et.al
 
-**Late fushion** Done at the internal layers of the model (e.g. OpenFlamingo, LLaMA-Adapter-V2)
+**Late fusion** Done at the internal layers of the model (e.g. OpenFlamingo, LLaMA-Adapter-V2)
 
 ___
 
@@ -56,18 +56,18 @@ ___
 
 ___
 
-![**Image 5:** Simplified architectural summary for tokenised early fusion - taken from Wadekar et.al](early_fusion_encoder.png)
+![**Image 5:** Simplified architectural summary for tokenised early fusion - taken from Wadekar et.al](early_fusion_tokens.png)
 
 ___
 
 
 # Tokeniser
 
-- For images: trained a new image tokenizer based on [Gafni et.al (2022)](https://arxiv.org/abs/2203.13131) which encodes encodes a 512 × 512 image into 1024 discrete tokens from a codebook of size 8192
+- For images: trained a new image tokenizer based on [Gafni et.al (2022)](https://arxiv.org/abs/2203.13131) which encodes a 512 × 512 image into 1024 discrete tokens from a codebook of size 8192
 
 > Based on [OAI's pricing page](https://openai.com/api/pricing/) (as of 5 June 2024), one image is ~170 tokens in GPT-4o.
 
-- For text: BPE tokenzier over a subset of training data, with a vocabulary size of 65K
+- For text: BPE tokenizer over a subset of training data, with a vocabulary size of 65K
 
 # Ensuring Stability of Pre-Training
 
@@ -105,8 +105,8 @@ _Taken from Table 1 of the paper_
 # Challenges Associated with Inference
 
 1. When decoding, we need to check whether it is a text or image token
-2. Masking tokens from other modalities when exlcuslively generating for a particular modality (e.g. no text tokens when doing image-only generation)
-3. Token-based iamge generation is a fixed-sized block
+2. Masking tokens from other modalities when exclusively generating for a particular modality (e.g. no text tokens when doing image-only generation)
+3. Token-based image generation is a fixed-sized block
 
 # SFT/Alignment
 
