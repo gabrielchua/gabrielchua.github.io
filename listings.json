@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/jina-clip-lancedb-cloud/index.html",
       "/posts/chameleon-meta/index.html"
     ]
   }
