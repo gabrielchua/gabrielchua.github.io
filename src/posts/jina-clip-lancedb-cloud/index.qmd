@@ -217,7 +217,7 @@ def get_embeddings(image_file_path):
         'encoding_type': 'float'
         }
 
-    response = requests.post(JINA_ENDPOINT,
+    response = requests.post("https://api.jina.ai/v1/embeddings",
                              headers=headers,
                              json=data)
     
@@ -241,11 +241,11 @@ class Content(LanceModel):
     vector: Vector(768)
 
 # Create a table called `demo` based on the above schema
-tbl = db.create_table("demo", schema=schema)
+tbl = db.create_table("demo", schema=Content)
 
 # Loop through list of file names to generate embedding and add to db
 for index, file_name in enumerate(LIST_OF_FILES):
-
+    
     # Create the embeddings
     image_embedding = get_embeddings(file_name)
 

@@ -379,7 +379,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb9-45"><a href="#cb9-45" aria-hidden="true" tabindex="-1"></a>        <span class="st">'encoding_type'</span>: <span class="st">'float'</span></span>
 <span id="cb9-46"><a href="#cb9-46" aria-hidden="true" tabindex="-1"></a>        }</span>
 <span id="cb9-47"><a href="#cb9-47" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb9-48"><a href="#cb9-48" aria-hidden="true" tabindex="-1"></a>    response <span class="op">=</span> requests.post(JINA_ENDPOINT,</span>
+<span id="cb9-48"><a href="#cb9-48" aria-hidden="true" tabindex="-1"></a>    response <span class="op">=</span> requests.post(<span class="st">"https://api.jina.ai/v1/embeddings"</span>,</span>
 <span id="cb9-49"><a href="#cb9-49" aria-hidden="true" tabindex="-1"></a>                             headers<span class="op">=</span>headers,</span>
 <span id="cb9-50"><a href="#cb9-50" aria-hidden="true" tabindex="-1"></a>                             json<span class="op">=</span>data)</span>
 <span id="cb9-51"><a href="#cb9-51" aria-hidden="true" tabindex="-1"></a>    </span>
@@ -403,11 +403,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb9-69"><a href="#cb9-69" aria-hidden="true" tabindex="-1"></a>    vector: Vector(<span class="dv">768</span>)</span>
 <span id="cb9-70"><a href="#cb9-70" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb9-71"><a href="#cb9-71" aria-hidden="true" tabindex="-1"></a><span class="co"># Create a table called `demo` based on the above schema</span></span>
-<span id="cb9-72"><a href="#cb9-72" aria-hidden="true" tabindex="-1"></a>tbl <span class="op">=</span> db.create_table(<span class="st">"demo"</span>, schema<span class="op">=</span>schema)</span>
+<span id="cb9-72"><a href="#cb9-72" aria-hidden="true" tabindex="-1"></a>tbl <span class="op">=</span> db.create_table(<span class="st">"demo"</span>, schema<span class="op">=</span>Content)</span>
 <span id="cb9-73"><a href="#cb9-73" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb9-74"><a href="#cb9-74" aria-hidden="true" tabindex="-1"></a><span class="co"># Loop through list of file names to generate embedding and add to db</span></span>
 <span id="cb9-75"><a href="#cb9-75" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> index, file_name <span class="kw">in</span> <span class="bu">enumerate</span>(LIST_OF_FILES):</span>
-<span id="cb9-76"><a href="#cb9-76" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-76"><a href="#cb9-76" aria-hidden="true" tabindex="-1"></a>    </span>
 <span id="cb9-77"><a href="#cb9-77" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Create the embeddings</span></span>
 <span id="cb9-78"><a href="#cb9-78" aria-hidden="true" tabindex="-1"></a>    image_embedding <span class="op">=</span> get_embeddings(file_name)</span>
 <span id="cb9-79"><a href="#cb9-79" aria-hidden="true" tabindex="-1"></a></span>
