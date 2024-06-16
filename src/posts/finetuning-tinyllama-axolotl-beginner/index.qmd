@@ -209,10 +209,6 @@ So now that we've prepared our data - we can begin the fine-tuning proper.
 
 Ironically, this step took the least amount of time mainly because data preparation (rightfully) takes more time, but also due to the convenient abstractions provided by Axolotl.
 
-As a brief introduction, Axolotl is a tool that allows you to fine-tune models through a series of command-line arguments based on configurations defined in a `.yml` file Within the [Axolotl GitHub repo](https://github.com/OpenAccess-AI-Collective/axolotl), there are many helpful example `.yml` files that you can easily re-use. For this example, I'm using the `.yml` file to train a lora for TinyLlama.
-
-To run Axolotl, I'm using Jarvis Labs - a GPU cloud provider - that was also one of the generous sponsors of GPU credits for the course. What I appreciated was you could easily launch a [Jupyter Notebook instance with Axolotl already installed](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jarvislabs.ai/templates/axolotl&ved=2ahUKEwipzfDusOCGAxV54TgGHYuvAtcQFnoECBAQAQ&usg=AOvVaw3yYsouWYX7jUn1HYOy4_TF). For more detailed steps on getting started with Axolotl through Jarvis Labs, you can refer to this [post](https://medium.com/@andresckamilo/fine-tuning-llms-using-axolotl-and-jarvis-ai-c1d11fe3844c) by Andresckamilo which I also referred to.
-
 I modified the dataset keys for the `lora.yml` for TinyLlama that was located at [`examples/tiny-llama/lora.yml`](https://github.com/OpenAccess-AI-Collective/axolotl/blob/main/examples/tiny-llama/lora.yml).
 
 ```yml
