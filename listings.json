@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/finetuning-tinyllama-axolotl-beginner/index.html",
       "/posts/llm-for-data-analysis/index.html",
       "/posts/jina-clip-lancedb-cloud/index.html",
       "/posts/chameleon-meta/index.html"
