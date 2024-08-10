@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/limits-of-llms-talk/index.html",
       "/posts/finetuning-tinyllama-axolotl-beginner/index.html",
       "/posts/llm-for-data-analysis/index.html",
       "/posts/jina-clip-lancedb-cloud/index.html",
