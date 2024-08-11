@@ -1,7 +1,7 @@
 ---
 title: "Deploying HuggingFace models on AWS SageMaker with 2 commands"
 author: "Gabriel Chua"
-date: "2024-09-10"
+date: "2024-08-10"
 categories: [code]
 ---
 

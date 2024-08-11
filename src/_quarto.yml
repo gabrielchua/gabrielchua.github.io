@@ -15,8 +15,9 @@ website:
         href: https://x.com/gabrielchua_
       - icon: linkedin
         href: https://www.linkedin.com/in/gabriel-chua/
+  google-analytics: "G-Q7QTXLJNM3"
 
 format:
   html:
-    theme: zeyphr
+    theme: flatly
     css: styles.css
