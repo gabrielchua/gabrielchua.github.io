@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/off-topic-guardrail/index.html",
       "/posts/limits-of-llms-talk/index.html",
       "/posts/deploying-hf-models-sagemaker/index.html",
       "/posts/finetuning-tinyllama-axolotl-beginner/index.html",
