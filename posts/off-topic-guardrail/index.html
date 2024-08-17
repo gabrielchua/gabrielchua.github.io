@@ -208,7 +208,7 @@ gtag('config', 'G-Q7QTXLJNM3', { 'anonymize_ip': true});
 
 <section id="off-topic-guardrails-embeddings-and-knn" class="level1">
 <h1>Off-Topic Guardrails: Embeddings and KNN</h1>
-<p>In this post, we’ll explore how to build a straightforward off-topic detector using embeddings and Approximate Nearest Neighbors (KNN).</p>
+<p>In this post, we’ll explore how to build a straightforward off-topic detector using embeddings and K-Nearest Neighbors (KNN).</p>
 <p>An off-topic guardrail is essential for filtering out queries that don’t align with the intended purpose of an LLM application. For instance, in an LLM application focused on car sales, we wouldn’t want it to start <a href="https://www.businessinsider.com/car-dealership-chevrolet-chatbot-chatgpt-pranks-chevy-2023-12">discussing Python code</a>.</p>
 <p>Since this guardrail will be integrated into the main LLM application, it must be fast and simple to implement, ensuring it doesn’t introduce significant latency or complexity.</p>
 <p>The key lies in using embeddings to capture the semantic meaning of the input text. By converting both the input query and a set of predefined on-topic and off-topic texts into embeddings, we can represent them in a high-dimensional space and analyze their relative positions. In this example, we use OpenAI’s <code>text-embedding-3-small</code>, though any reasonably performant embedding model can be substituted.</p>

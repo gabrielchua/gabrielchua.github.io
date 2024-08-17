@@ -7,7 +7,7 @@ categories: [code]
 
 # Off-Topic Guardrails: Embeddings and KNN
 
-In this post, we'll explore how to build a straightforward off-topic detector using embeddings and Approximate Nearest Neighbors (KNN).
+In this post, we'll explore how to build a straightforward off-topic detector using embeddings and K-Nearest Neighbors (KNN).
 
 An off-topic guardrail is essential for filtering out queries that don't align with the intended purpose of an LLM application. For instance, in an LLM application focused on car sales, we wouldn't want it to start [discussing Python code](https://www.businessinsider.com/car-dealership-chevrolet-chatbot-chatgpt-pranks-chevy-2023-12).
 
