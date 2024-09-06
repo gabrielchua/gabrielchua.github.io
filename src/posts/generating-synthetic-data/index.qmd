@@ -5,10 +5,9 @@ date: "2024-09-06"
 categories: [code, llm]
 ---
 
-Last weekend, I found myself with over $300 in expiring OpenAI API credits and decided to dive headfirst into generating synthetic data with GPT-4o. The result? A dataset of over 2 million examples, featuring both system and user prompts, which you can check out here: [synthetic dataset](https://huggingface.co/datasets/gabrielchua/off-topic).
+Last weekend, I found myself with over $300 in expiring OpenAI API credits and decided to dive into generating synthetic data with GPT-4o. The result? A dataset of over 2 million examples, featuring both system and on or off-topic user prompts, which you can check out [here](https://huggingface.co/datasets/gabrielchua/off-topic). The goal was to generate a diverse dataset for benchmarking and developing input guardrails that block irrelevant topics while allowing relevant ones.
 
 ![One last hurrah to finish off the last of my OpenAI credits.](thumbnail.jpg)
-
 
 In this post, I’ll walk you through my process, focusing specifically on how to generate diverse data using GPT-4o. These tips will help you avoid common pitfalls, save resources, and ensure your dataset is as varied and valuable as possible.
 
