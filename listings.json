@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/daily-ai-papers/index.html",
       "/posts/generating-synthetic-data/index.html",
       "/posts/off-topic-guardrail/index.html",
       "/posts/limits-of-llms-talk/index.html",
