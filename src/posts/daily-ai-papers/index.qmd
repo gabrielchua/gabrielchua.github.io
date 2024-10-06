@@ -17,7 +17,7 @@ The GitHub Actions workflow runs two Python scripts, `pull_hf_daily.py` and `sum
 
 This entire project runs for free - from the GitHub Actions runners to the LLM calls for Gemini. I initially started with Flash, but realised the generous rate limits would support Pro, and decided to upgrade. Now, each day around noon UTC, the scripts automatically retrieve the latest research papers, generate summaries using a large language model, and push the updates directly to GitHub Pages. 
 
-Here is the GitHub Repo: [daily-ai-papers](https://github.com/gabriel-chua/daily-ai-papers).
+Here is the GitHub Repo: [daily-ai-papers](https://github.com/gabrielchua/daily-ai-papers).
 
 # Slides
 
