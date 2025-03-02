@@ -1,0 +1,53 @@
+---
+title: "smol projects"
+---
+
+Here are some of my weekend hacks! 
+
+# [Open NotebookLM](https://github.com/gabrielchua/open-notebooklm)
+
+An implementation of Google's NotebookLM, using only OSS models!
+
+![](images/open-notebooklm.png)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">introducing Open NotebookLM <br><br>turn any PDF 📄 into a personalized podcast 🎧 in no time. <br><br>the best part? it was all built in a single afternoon using open-source AI ✨.<br><br>🧵 (1/4) <a href="https://t.co/PLrr1Ol99D">pic.twitter.com/PLrr1Ol99D</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1840397217099878678?ref_src=twsrc%5Etfw">September 29, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# GovTech x OpenAI Hackathon
+
+An audio-based game to learn your Chinese
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7265703124680478720" height="689" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+# [RAGxplorer](https://github.com/gabrielchua/RAGxplorer)
+
+Visualise your RAG documents!
+
+![](images/ragxplorer.png)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦺RAGxplorer<br><br>There&#39;s a lot of nuance in RAG, a lot of different parameters to control<br><br>It can be really helpful to just play around with parameters and visualize results<br><br>@gabchuayz built an AWESOME open source <a href="https://twitter.com/streamlit?ref_src=twsrc%5Etfw">@streamlit</a> app for exactly this<a href="https://t.co/x8iS7DkeII">https://t.co/x8iS7DkeII</a> <a href="https://t.co/miD9jhpaGL">pic.twitter.com/miD9jhpaGL</a></p>&mdash; Harrison Chase (@hwchase17) <a href="https://twitter.com/hwchase17/status/1748730564130283914?ref_src=twsrc%5Etfw">January 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# [Daily AI Papers](https://github.com/gabrielchua/daily-ai-papers)
+
+Use GitHub Actions & Google AI Studio to get free daily AI paper summaries ~
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">automatically summarise huggingface&#39;s daily ai paper collection using gitHub actions and gemini flash&#39;s pdf processing capabilities<a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a> <a href="https://t.co/vWIufV2CvG">pic.twitter.com/vWIufV2CvG</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1829726300963312123?ref_src=twsrc%5Etfw">August 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# [Gongxi Guru](https://gongxi-guru.vercel.app/)
+
+Practice your Chinese New Year greetings with GPT 4o realtime API.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">practice your chinese new year greetings 🍊🧧<br><br>&gt; powered by realtime api, <br>&gt; and kindly funded by the api credits won at last year&#39;s hackathon<a href="https://twitter.com/OpenAIDevs?ref_src=twsrc%5Etfw">@OpenAIDevs</a> <a href="https://t.co/pll6OCRc5C">pic.twitter.com/pll6OCRc5C</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1883033271145284027?ref_src=twsrc%5Etfw">January 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# Debate Arena
+
+Benchmark LLMs by making them debate each other.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">can we benchmark llms by making them debate each other?<br>will they know when to give up?<br>will o1 win all other llms?<br><br>i built this simple cli tool to try this out <a href="https://t.co/idENOYN1cv">pic.twitter.com/idENOYN1cv</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1877955843918016835?ref_src=twsrc%5Etfw">January 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# o1-pro Generated Game
+
+An HTML game created by o1-pro mode.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">html game created by o1 pro mode<br><br>can&#39;t wait for the api<a href="https://twitter.com/OpenAI?ref_src=twsrc%5Etfw">@OpenAI</a> <a href="https://twitter.com/OpenAIDevs?ref_src=twsrc%5Etfw">@OpenAIDevs</a> <a href="https://t.co/FqSQOTgxfe">pic.twitter.com/FqSQOTgxfe</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1865653820430352472?ref_src=twsrc%5Etfw">December 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+

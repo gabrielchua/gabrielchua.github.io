@@ -7,8 +7,8 @@ website:
   navbar:
     right:
       - blog.qmd
-      - text: AI Events
-        href: https://lu.ma/sg-ai
+      - projects.qmd
+      - community.qmd
       - icon: github
         href: https://github.com/gabrielchua
       - icon: twitter

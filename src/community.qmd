@@ -1,0 +1,33 @@
+---
+title: "AI Events"
+---
+
+Some AI events I've organised. Hit me up if you wanna collaborate!
+
+# smol hackathon for smol models (2 March 2025) [Sponsored by Antler, JigsawStack, Groq, Menlo Research]
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7301946660820041728" height="925" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+# Build Club Global Hackathon (7-9 June 2024) [Sponsored by Antler,Vercel, Groq, Supabase, and more]
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">we&#39;re cooking here in singapore 👀<a href="https://twitter.com/yoeven?ref_src=twsrc%5Etfw">@yoeven</a> and i were really lucky to bring <a href="https://twitter.com/the_builderclub?ref_src=twsrc%5Etfw">@the_builderclub</a> &#39;s global hackathon and those magical builder vibes to singapore ✨<br><br>🧵here&#39;s what folks built <a href="https://t.co/YarszFbjS2">pic.twitter.com/YarszFbjS2</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1800428767317520890?ref_src=twsrc%5Etfw">June 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# (un)official ai weekend (23-24 March 2024)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">an (un)official ai weekend 👀<br><br>we had 30+ ai builders come together this weekend - here’s what happened<br><br>🧵 <a href="https://twitter.com/hashtag/singaporeAI?src=hash&amp;ref_src=twsrc%5Etfw">#singaporeAI</a> <a href="https://t.co/oXBKEEFRSf">pic.twitter.com/oXBKEEFRSf</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1771520109711876532?ref_src=twsrc%5Etfw">March 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# AI Engineers Meetup [Venue sponsored by Antler]
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">another great friday night with ai 🥳<a href="https://twitter.com/swyx?ref_src=twsrc%5Etfw">@swyx</a> giving a whirlwind tour of ai in the last year, and how to think in terms of the llm os and what to expect next<br><br>demos from the crowd, which are always great - <br><br>huge thanks to <a href="https://twitter.com/AntlerGlobal?ref_src=twsrc%5Etfw">@AntlerGlobal</a> &amp; <a href="https://twitter.com/_thothAI?ref_src=twsrc%5Etfw">@_thothAI</a> /Yee Hui for the generous… <a href="https://t.co/zGNN82ngZt">pic.twitter.com/zGNN82ngZt</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1794032024937971720?ref_src=twsrc%5Etfw">May 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# Pi Day 2024 (with defog.ai)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">happy 3.14 day 🥧<br><br>so happy we got a nice cosy group together to celebrate the day ✨<br><br>here&#39;s what happened 🧵<a href="https://twitter.com/hashtag/singaporeai?src=hash&amp;ref_src=twsrc%5Etfw">#singaporeai</a> 🇸🇬 <a href="https://t.co/SdTmdw8wHo">pic.twitter.com/SdTmdw8wHo</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1768293061946442086?ref_src=twsrc%5Etfw">March 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# AI Wednesdays (The One With Pizza)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ai wednesday ✨<br><br>some favorite moments 🧵 <a href="https://t.co/x2HdZ8Toiz">pic.twitter.com/x2HdZ8Toiz</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1760347053526589877?ref_src=twsrc%5Etfw">February 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+# AI After Hours (with MassMutual Ventures)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ai: after hours 👀<br><br>an evening with ai, demos, &amp; pizza 🍕 is always a great evening ✨<br><br>huge shoutout to <a href="https://twitter.com/realweijianchen?ref_src=twsrc%5Etfw">@realweijianchen</a> (<a href="https://twitter.com/MMVglobal?ref_src=twsrc%5Etfw">@MMVglobal</a>) for being such an awesome host <a href="https://twitter.com/ivanleomk?ref_src=twsrc%5Etfw">@ivanleomk</a> <a href="https://twitter.com/aimuggle?ref_src=twsrc%5Etfw">@aimuggle</a> <a href="https://twitter.com/Saif_corgi?ref_src=twsrc%5Etfw">@Saif_corgi</a> <a href="https://twitter.com/paradite_?ref_src=twsrc%5Etfw">@paradite_</a> <a href="https://twitter.com/yongquanYQ?ref_src=twsrc%5Etfw">@yongquanYQ</a> <a href="https://twitter.com/NickFisherAU?ref_src=twsrc%5Etfw">@NickFisherAU</a> <a href="https://twitter.com/SWEJWO?ref_src=twsrc%5Etfw">@SWEJWO</a> <a href="https://t.co/CxrQuZPG3i">pic.twitter.com/CxrQuZPG3i</a></p>&mdash; gabriel (@gabrielchua_) <a href="https://twitter.com/gabrielchua_/status/1775847958615134277?ref_src=twsrc%5Etfw">April 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
