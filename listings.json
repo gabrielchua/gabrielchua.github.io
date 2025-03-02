@@ -2,7 +2,10 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/toxic-singlish-from-r1/index.html",
+      "/posts/getting-started-with-guardrails/index.html",
       "/posts/defence-against-the-dark-arts-llm-edition/index.html",
+      "/posts/why-llm-guardrails-matter/index.html",
       "/posts/daily-ai-papers/index.html",
       "/posts/generating-synthetic-data/index.html",
       "/posts/off-topic-guardrail/index.html",
