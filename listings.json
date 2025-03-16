@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/openai-agents-sdk-first-thoughts/index.html",
       "/posts/toxic-singlish-from-r1/index.html",
       "/posts/getting-started-with-guardrails/index.html",
       "/posts/defence-against-the-dark-arts-llm-edition/index.html",
