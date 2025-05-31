@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Gabriel Chua - Notes for \u201cChameleon: Mixed-Modal Early-Fusion Foundation Models\u201d",
+    "path": "posts/chameleon-meta/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Summarising Daily AI Papers with GitHub and Gemini",
+    "path": "posts/daily-ai-papers/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Defence Against the Dark Arts: LLM Edition",
+    "path": "posts/defence-against-the-dark-arts-llm-edition/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Deploying HuggingFace models on AWS SageMaker with 2 commands",
+    "path": "posts/deploying-hf-models-sagemaker/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Fine-tuning TinyLlama with Axolotl and JarvisLab",
+    "path": "posts/finetuning-tinyllama-axolotl-beginner/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Generating Diverse Synthetic Data with GPT-4o",
+    "path": "posts/generating-synthetic-data/index.html"
+  },
+  {
+    "title": "Gabriel Chua - From Risk to Resilience: Adding LLM Guardrails From Day 1",
+    "path": "posts/getting-started-with-guardrails/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Side Quest at Build Together Hackathon: jina-clip-v1 and LanceDB Cloud",
+    "path": "posts/jina-clip-lancedb-cloud/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Navigating the limits of LLM",
+    "path": "posts/limits-of-llms-talk/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Working with LLMs: A Data Analyst\u2019s Guide",
+    "path": "posts/llm-for-data-analysis/index.html"
+  },
+  {
+    "title": "Gabriel Chua - A Simple Off-Topic Guardrail",
+    "path": "posts/off-topic-guardrail/index.html"
+  },
+  {
+    "title": "Gabriel Chua - OpenAI Agents SDK: First Thoughts",
+    "path": "posts/openai-agents-sdk-first-thoughts/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Eliciting Toxic Singlish from r1",
+    "path": "posts/toxic-singlish-from-r1/index.html"
+  },
+  {
+    "title": "Gabriel Chua - Building Responsible AI \u2014 Why Guardrails Matter",
+    "path": "posts/why-llm-guardrails-matter/index.html"
+  }
+]
