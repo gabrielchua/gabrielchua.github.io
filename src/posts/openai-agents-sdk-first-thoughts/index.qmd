@@ -12,9 +12,13 @@ I spent last weekend exploring OpenAI's newly released [Agents SDK](https://open
 In this article, I'll highlight my initial impressions, the SDK's standout features, and some caveats to be mindful of if you're considering using it in production.
 
 **TL;DR**: 
+
 - Quick and easy to start.
+
 - OpenAI platform's Traces UI is excellent for debugging, and one less service to manage.
+
 - Input/output guardrails are straightforward but need workarounds for streaming outputs.
+
 - Expect some friction around agent handoffs and potential latency with nested agent calls.
 
 ---

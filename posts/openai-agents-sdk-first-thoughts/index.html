@@ -215,7 +215,13 @@ gtag('config', 'G-Q7QTXLJNM3', { 'anonymize_ip': true});
 <h1>Building with OpenAI’s Agents SDK: Early Observations</h1>
 <p>I spent last weekend exploring OpenAI’s newly released <a href="https://openai.com/api/agents/">Agents SDK</a>. To better understand its capabilities, I built a lightweight <a href="https://github.com/gabrielchua/oai-agents-example">prototype</a> illustrating how multiple LLM-based agents interact, each equipped with input/output validation guardrails.</p>
 <p>In this article, I’ll highlight my initial impressions, the SDK’s standout features, and some caveats to be mindful of if you’re considering using it in production.</p>
-<p><strong>TL;DR</strong>: - Quick and easy to start. - OpenAI platform’s Traces UI is excellent for debugging, and one less service to manage. - Input/output guardrails are straightforward but need workarounds for streaming outputs. - Expect some friction around agent handoffs and potential latency with nested agent calls.</p>
+<p><strong>TL;DR</strong>:</p>
+<ul>
+<li><p>Quick and easy to start.</p></li>
+<li><p>OpenAI platform’s Traces UI is excellent for debugging, and one less service to manage.</p></li>
+<li><p>Input/output guardrails are straightforward but need workarounds for streaming outputs.</p></li>
+<li><p>Expect some friction around agent handoffs and potential latency with nested agent calls.</p></li>
+</ul>
 <hr>
 <section id="architecture-overview" class="level2">
 <h2 class="anchored" data-anchor-id="architecture-overview">Architecture Overview</h2>
