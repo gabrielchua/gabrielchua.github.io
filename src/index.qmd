@@ -21,4 +21,4 @@ about:
 
 I'm a Data Scientist at [GovTech](https://tech.gov.sg/), where I build tooling for [Responsible AI](https://medium.com/dsaid-govtech/building-responsible-ai-why-guardrails-matter-b66e1d635d71) and combatting online scams. 
 
-I also occasionally organisie community AI events and demo sessions. 
+I also occasionally organise AI community events. 
