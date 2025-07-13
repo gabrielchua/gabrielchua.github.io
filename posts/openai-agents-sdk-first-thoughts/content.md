@@ -1,10 +1,3 @@
----
-title: "OpenAI Agents SDK: First Thoughts"
-author: "Gabriel Chua"
-date: "2025-03-16"
-categories: [code, agents]
----
-
 # Building with OpenAI’s Agents SDK: Early Observations 
 
 I spent last weekend exploring OpenAI's newly released [Agents SDK](https://openai.com/api/agents/). To better understand its capabilities, I built a lightweight [prototype](https://github.com/gabrielchua/oai-agents-example) illustrating how multiple LLM-based agents interact, each equipped with input/output validation guardrails.
